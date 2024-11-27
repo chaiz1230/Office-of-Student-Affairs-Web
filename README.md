@@ -1,0 +1,1 @@
+The Office of Student Affairs Web is a Java-based application designed for PLM authorities to access and manage files and information for each department and student. It aims to provide an organized and systematic approach to presenting data while ensuring it remains informative.
